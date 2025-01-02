@@ -41,7 +41,6 @@ def add_imbalance(train_dataset, imbalance = 0.05, random_seed=123):
         TrainerDataset: Imbalanced dataset
     """
     np.random.seed(random_seed)
-    classes, counts = np.unique(train_dataset.targets, return_counts=True)
     positive = np.array(train_dataset.inputs)[np.array(train_dataset.targets)==1]
     new_positive = [pos for pos in positive if np.random.random()<imbalance]
     new_inputs = new_positive + list(np.array(train_dataset.inputs)[np.array(train_dataset.targets)==0])
