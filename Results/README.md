@@ -7,4 +7,4 @@
 * nlpaug_lstm.csv- table with metrics of LSTM models
 * nlpaug_distilbert.csv- table with metrics of DistilBERT models
 #### Results of XAI analysis were too big to save on github thus are included in separate drive:
-https://wutwaw-my.sharepoint.com/:f:/g/personal/01151389_pw_edu_pl/ElUZ2FaVp-1PuwnYCcfc-N0BjDHbBrfEkdh06WsSPWbenw?e=2vguiY
+[https://wutwaw-my.sharepoint.com/:f:/g/personal/01151389_pw_edu_pl/ElUZ2FaVp-1PuwnYCcfc-N0BjDHbBrfEkdh06WsSPWbenw?e=2vguiY](https://wutwaw-my.sharepoint.com/:f:/g/personal/01151389_pw_edu_pl/ElUZ2FaVp-1PuwnYCcfc-N0BjDHbBrfEkdh06WsSPWbenw?e=nifboJ)
